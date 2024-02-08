@@ -81,10 +81,11 @@ button {
     transform: scaleY(1.2);
 }
 .anythingtoscalecontenttoppage:before { 
-	content: "WELCOME TO ⭐ DRAGON🐉CHEAT⭐ WEBSITE ";
+	content:"WELCOME TO ⭐ DRAGON🐉CHEAT⭐ WEBSITE ";
 }
 .anythingtoscalestyletoppage { 
 	text-align: center;
+    margin-top: -49px;
 	font-size: 12px;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -95,15 +96,7 @@ button {
 	font-family: Fantasy, Times, serif;
 	font-weight: 300;
 }
-.gif {
-	background: rgb(77, 22, 11);
-    width: 12px;
-    height: 0px;
-    margin-top: 0px;
-    margin-left: 370px;
-    margin-right: 400px;
-	background: linear-gradient(77, 22, 11);
-}
+
 
 /*
 .newupdates6:after { 
@@ -191,11 +184,14 @@ button {
 }
 */
 
-
-
+.videologo {
+	
+    
+}
 img {
 	width: 110px;
 	height: 140px;
+    border-radius: 20px;
 }
 a {
 	font-size: 9px;
@@ -281,6 +277,7 @@ a {
 	flex: auto;
 	border: 1px solid  black;
 	background-color: rgb(77, 33,44);
+    border-radius: 20px;
 }
 body {
 	text-align: center;
