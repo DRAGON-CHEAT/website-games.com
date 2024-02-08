@@ -25,12 +25,12 @@ input {
 }
 
 p {
-	font-size: 8px;
+	font-size: 9px;
 	padding-top: 5px;
-	color: blue;
+	color: snow;
 	font-weight: bold;
 	font-family: Arial;
-	max-width: 25ch;
+	max-width: 27ch;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
