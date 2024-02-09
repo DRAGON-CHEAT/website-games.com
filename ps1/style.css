@@ -69,7 +69,7 @@ button {
 	margin-right: -1.3px;
 	margin-top: -2px;
 	margin-bottom: 2px;
-	color: orange;
+	color: goldenrod;
 	background-color: black;
 	text-align: center;
 	font-size: 8.3px;
@@ -375,7 +375,7 @@ social button
   border-radius: 100%;
   background: #fff;
   text-align: center;
-  background-color: #243455;
+  background-color: rgb(77, 26, 11);
 }
 .social-button::after {
   content: "";
