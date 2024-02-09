@@ -375,7 +375,7 @@ social button
   border-radius: 100%;
   background: #fff;
   text-align: center;
-  background-color: rgb(77, 26, 11);
+  background-color: rgb #4f2a35;
 }
 .social-button::after {
   content: "";
