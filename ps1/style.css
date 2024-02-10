@@ -14,10 +14,10 @@ h1 {
 	background-color: whitesmoke;
 	color: #243455;
 	padding: 5px;
-	margin: -27px;
+	margin: -24px;
 	font-size: 15px;
 	font-family: Fantasy, Times, serif;
-	font-weight: 800;
+	font-weight: 300;
 	font-family: Arial;
 }
 h3 {
@@ -28,7 +28,7 @@ h3 {
 	margin: -18px;
 	font-size: 15px;
 	font-family: Fantasy, Times, serif;
-	font-weight: 800;
+	font-weight: 300;
 	font-family: Arial;
 }
 input {
