@@ -24,11 +24,11 @@ h3 {
 	text-align: center;
 	background-color: rgb(55, 22, 11);
 	color: #243455;
-	padding: 8px;
-	margin: -18px;
+	padding: 6px;
+	margin: -17px;
 	font-size: 15px;
 	font-family: Fantasy, Times, serif;
-	font-weight: 300;
+	font-weight: 0;
 	font-family: Arial;
 }
 input {
