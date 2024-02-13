@@ -9,28 +9,67 @@ h2 {
 	font-weight: 300;
 	font-family: Arial;
 }
+
+.menu{
+    width: 100%;
+    background-color:black;
+    color: black;
+    height: 60px;
+    
+}
+
+.menu #logo{
+    float:left;
+    height: 15px;
+    margin-top: -3px;
+    padding: 15px 30px;
+    font-size: 1.2em;
+    line-height: 30px;
+}
+
+.menu > ul {
+    margin: 0;
+    padding: 0;
+    float: left;
+    list-style-type: none;
+}
+.menu > ul < li {
+    float: left;
+}
+
+.menu-item {
+    display: inline-block;
+    padding: 15px 20px;
+    height: 15px;
+    line-height: 30px;
+    color: black;
+    text-decoration: none;
+}
 h1 {
 	text-align: center;
-	background-color: whitesmoke;
+	background-color: whitesmoke;                                 
 	color: #243455;
-	padding: 5px;
-	margin: -24px;
-	font-size: 15px;
+	padding: 6px;
+	margin: -30px;
+	font-size: 17px;
 	font-family: Fantasy, Times, serif;
 	font-weight: 300;
 	font-family: Arial;
+    box-shadow: -1px 3px 11px
 }
 h3 {
     text-align: center;
-	background-color: rgb(55, 22, 11);
 	color: #243455;
-	padding: 9px;
+	padding: 13px;
 	margin: 0px;
-        margin-top: -17px;
+    margin-left:  300px;
+	margin-right: -60px;
+    margin-top: -49px;
 	font-size: 15px;
 	font-family: Fantasy, Times, serif;
 	font-weight: 0;
 	font-family: Arial;
+
 }
 input {
 	width: 170px;
@@ -57,6 +96,7 @@ p {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    border-radius: 20px;
 }
 /*
 p:hover{
@@ -83,14 +123,14 @@ body {
     background-color: rgb(77, 22, 11);
 	font-family: Arial;
 	overflow-x: hidden;
-}
+} 
 button {
 	width: 90px;
-	padding-top: 2px;
-	padding-bottom: 3px;
-	margin-left: 1.3px;
-	margin-right: -1.3px;
-	margin-top: -4px;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	margin-left:  80px;
+	margin-right: -280px;
+	margin-top: -8px;
 	margin-bottom: 12px;
 	color: goldenrod;
 	background-color: #1d1f24;
@@ -98,13 +138,17 @@ button {
 	font-size: 8.3px;
 	font-weight: bold;
 	border-width: 1px;
-	border-radius: 5px;
+	border-radius: 4px;
 	font-family: Arial;
 	-webkit-transform: scaleY(1.2);
     transform: scaleY(1.2);
 }
+
+button:hover {
+    background-color: brown;
+}    
 .anythingtoscalecontenttoppage:before { 
-	content:"WELCOME TO ⭐ DRAGON🐉CHEAT⭐ WEBSITE ";
+	content:"";
 }
 .anythingtoscalestyletoppage { 
 	text-align: center;
@@ -207,13 +251,11 @@ button {
 }
 */
 
-.videologo {
-margin-top: -7px;	
-    
+
 }
-img {
+img 
 	width: 110px;
-	height: 140px;
+	height: 0px;
     border-radius: 20px;
 }
 a {
@@ -276,7 +318,7 @@ a {
         color: white;
         text-align: center;
 		border-radius: 3px;
-		background-color: Orange;
+		background-color: white;
       }
 
 #a {
@@ -290,7 +332,7 @@ a {
 .gameinline {
 	display: inline-block;
 	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-bottom: 15px;
 	padding-left: 12px;
 	padding-right: 12px;
 	margin-left: 4px;
@@ -298,9 +340,10 @@ a {
 	margin-top: 10px;
 	text-align: center;
 	flex: auto;
-	border: 1px solid  black;
-	background-color: #b5a5a9;
-    border-radius: 20px;
+	border: 1px solid black ;
+	background-color: rgb(77, 33,44);
+    border-radius: 24px;
+    box-shadow: -1px 3px 7px     
 }
 body {
 	text-align: center;
