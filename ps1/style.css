@@ -55,16 +55,16 @@ h1 {
 	font-family: Fantasy, Times, serif;
 	font-weight: 300;
 	font-family: Arial;
-    box-shadow: -1px 3px 11px
+        box-shadow: -1px 3px 11px
 }
 h3 {
     text-align: center;
 	color: #243455;
 	padding: 13px;
 	margin: 0px;
-    margin-left:  300px;
+        margin-left:  240px;
 	margin-right: -60px;
-    margin-top: -49px;
+        margin-top: -49px;
 	font-size: 15px;
 	font-family: Fantasy, Times, serif;
 	font-weight: 0;
@@ -73,12 +73,12 @@ h3 {
 }
 input {
 	width: 170px;
-    padding-top: 7px;
+        padding-top: 7px;
 	padding-bottom: 7px;
 	margin-top: 10px;
 	margin-bottom: 5px;
 	color: black;
-    background-color: brown;
+        background-color: brown;
 	text-align: center;
 	font-size: 7px;
 	border-width: 1px;
@@ -93,10 +93,10 @@ p {
 	font-weight: bold;
 	font-family: Arial;
 	max-width: 27ch;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    border-radius: 20px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        border-radius: 20px;
 }
 /*
 p:hover{
@@ -113,14 +113,14 @@ table {
 }
 tbody {
 	font-size: 10px;
-    background-color: rgb(77, 22, 11);
+        background-color: rgb(77, 22, 11);
 	padding-top: 5px;
 	font-weight: bold;
 	font-family: Arial;
 }
 body {
 	margin: 0px;
-    background-color: rgb(77, 22, 11);
+        background-color: rgb(77, 22, 11);
 	font-family: Arial;
 	overflow-x: hidden;
 } 
